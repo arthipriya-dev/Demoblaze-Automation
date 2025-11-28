@@ -1,0 +1,12 @@
+#Maven target output
+/target/
+/test-output/
+
+#Eclipse files
+/.project
+/.classpath
+/.settings/
+/bin/
+
+#Logs
+*.log
